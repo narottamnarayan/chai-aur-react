@@ -1,2 +1,2 @@
 # chai-aur-react
-i want to use pratice on git
+i want to use pratice on github
